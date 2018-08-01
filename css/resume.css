@@ -4,6 +4,9 @@ body {
   color: #868e96;
 }
 
+.description_div {
+   text-align: justify
+}
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -37,6 +40,13 @@ h2 {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
+}
+
+.datefont {
+  text-transform: uppercase;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem;
+  font-weight: lighter;
 }
 
 .list-social-icons a {
@@ -143,5 +153,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #000000;
 }
