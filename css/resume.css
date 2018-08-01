@@ -1,5 +1,6 @@
 body {
-  font-family: 'Open Sans', serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
   padding-top: 54px;
   color: #868e96;
 }
