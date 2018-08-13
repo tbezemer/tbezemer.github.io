@@ -76,6 +76,7 @@ h2 {
 }
 
 @media (min-width: 992px) {
+
   #sideNav {
     text-align: center;
     position: fixed;
@@ -126,6 +127,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 @media (min-width: 768px) {
+  .photo_div {
+    display: none;
+  }
   section.resume-section {
     min-height: 100vh;
   }
